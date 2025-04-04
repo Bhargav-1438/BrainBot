@@ -1,0 +1,19 @@
+{
+  "greetings": {
+      "hello": "Hey there! How can I assist you today? 😊",
+      "hi": "Hi! How can I help you? 😊",
+      "hey": "Hey! What can I do for you today? 😊"
+  },
+  "math": {
+      "addition": "Addition is combining two numbers to get a sum. Example: 2 + 3 = 5. Enter two numbers to add (e.g., 'add 4 5').",
+      "subtraction": "Subtraction finds the difference between two numbers. Example: 5 - 2 = 3. Enter two numbers to subtract (e.g., 'subtract 8 3').",
+      "multiplication": "Multiplication is repeated addition. Example: 3 × 4 = 12. Enter two numbers to multiply (e.g., 'multiply 6 7').",
+      "division": "Division splits a number into equal parts. Example: 8 ÷ 2 = 4. Enter two numbers to divide (e.g., 'divide 10 2')."
+  },
+  "physics": {
+      "force": "Force is calculated as mass × acceleration (F = m × a). Enter mass and acceleration (e.g., 'force 10 2').",
+      "speed": "Speed is calculated as distance ÷ time (S = d / t). Enter distance and time (e.g., 'speed 100 2').",
+      "density": "Density is mass ÷ volume (D = m / V). Enter mass and volume (e.g., 'density 50 10').",
+      "work": "Work is force × displacement (W = F × d). Enter force and displacement (e.g., 'work 15 3')."
+  }
+}
